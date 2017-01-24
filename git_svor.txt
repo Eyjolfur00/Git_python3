@@ -23,5 +23,8 @@
 4. Hvað er útgáfustýring (e.version control)? 
 	
 	það er version sem stjórnar kerfi sem tekur upp allar breytingar á file
+
+5. Hverjir eru helstu kostir við að nota GIT?
    
+   Maður getur unnið að sínu eigin verkefni og ræður ef þú villt að aðrir geta séð og breytt koðanum (fyrir samvinnu)
 

@@ -28,3 +28,6 @@
    
    Maður getur unnið að sínu eigin verkefni og ræður ef þú villt að aðrir geta séð og breytt koðanum (fyrir samvinnu)
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	
+	fyrir hvert svar svo að það er hægt að sjá allar breytingar

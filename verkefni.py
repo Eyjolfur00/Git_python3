@@ -1,1 +1,3 @@
-python verkefni
+#python verkefni
+
+while

@@ -31,3 +31,12 @@
 6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	
 	fyrir hvert svar svo að það er hægt að sjá allar breytingar
+
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	
+	= Þetta er kallað the three states
+
+	working directory = directory sem er verið að vinna í
+	staging area = þetta er svæði þar sem að hlutir eru lagaðir áður en það er commitað
+	repository = geymsla þar sem að gögnin þín eru geymd

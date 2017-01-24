@@ -40,3 +40,9 @@
 	working directory = directory sem er verið að vinna í
 	staging area = þetta er svæði þar sem að hlutir eru lagaðir áður en það er commitað
 	repository = geymsla þar sem að gögnin þín eru geymd
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+	ef að það eru margir að vinna i verkefni þá er gott að nota greinar til að sjá hvar maður er
+	líka ef það er mikið af fileum og helling inni þeim þá er líka mjög gott að nota greinar.
+

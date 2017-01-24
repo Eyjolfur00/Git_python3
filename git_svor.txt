@@ -1,1 +1,8 @@
 #git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd     = breytir directorinum 
+	cd ~   = maður fer a heimasvæði
+	ls     = skoðar alla directoria á svæðinu sem þú ert á
+	pwd    = checka hvaða drifi maður er á
+	mkdir  = búa til direcotry

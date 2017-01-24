@@ -46,3 +46,7 @@
 	ef að það eru margir að vinna i verkefni þá er gott að nota greinar til að sjá hvar maður er
 	líka ef það er mikið af fileum og helling inni þeim þá er líka mjög gott að nota greinar.
 
+
+9.	Hver fann upp GIT?
+
+	Linus Torvalds

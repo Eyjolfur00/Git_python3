@@ -6,3 +6,10 @@
 	ls     = skoðar alla directoria á svæðinu sem þú ert á
 	pwd    = checka hvaða drifi maður er á
 	mkdir  = búa til direcotry
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone      = klóna geymslu inní nýtt directoery
+	git log        = sýnir skjöl sem maður er búinn að commita
+	git status     = sýnir hvar maður er að vinna
+	git diff       = það synir breytingar milli vinnandi tree og commits 
+	git checkout   = restorað vinnandi tree skjal
